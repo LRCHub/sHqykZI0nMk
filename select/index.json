@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "図星",
+  "base_artist": "berry meet",
+  "createdAt": "2026-01-06T17:37:30.549749Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "図星",
+      "artist": "berry meet",
+      "has_synced": false,
+      "path": "select/pl_01_図星_berry_meet.txt"
+    }
+  ]
+}
